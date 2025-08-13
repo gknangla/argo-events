@@ -23,7 +23,7 @@ require (
 	github.com/aliyun/aliyun-mns-go-sdk v1.0.11
 	github.com/andygrunwald/go-gerrit v0.0.0-20230325081502-da63a5c62d80
 	github.com/antonmedv/expr v1.15.5
-	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
+	github.com/apache/openwhisk-client-go v0.0.0-20250309042127-fa7fa7e48863
 	github.com/apache/pulsar-client-go v0.12.0
 	github.com/argoproj/notifications-engine v0.4.1-0.20250309174002-87bf0576a872
 	github.com/aws/aws-sdk-go v1.47.11
@@ -269,7 +269,7 @@ require (
 	github.com/nats-io/nats-streaming-server v0.24.6 // indirect
 	github.com/nats-io/nkeys v0.4.11 // indirect
 	github.com/nats-io/nuid v1.0.1 // indirect
-	github.com/nicksnyder/go-i18n v1.10.1-0.20190510212457-b280125b035a // indirect
+	github.com/nicksnyder/go-i18n v1.10.3 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/opsgenie/opsgenie-go-sdk-v2 v1.2.23 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
