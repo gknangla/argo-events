@@ -10,7 +10,7 @@ require (
 	cloud.google.com/go/compute/metadata v0.7.0
 	cloud.google.com/go/pubsub v1.49.0
 	dario.cat/mergo v1.0.2
-	github.com/AdaLogics/go-fuzz-headers v0.0.0-20221103172237-443f56ff4ba8
+	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
 	github.com/Azure/azure-event-hubs-go/v3 v3.6.2
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.11.0
 	github.com/Azure/azure-sdk-for-go/sdk/messaging/azeventhubs v1.4.0
