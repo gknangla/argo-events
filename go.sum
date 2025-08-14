@@ -199,6 +199,8 @@ github.com/bits-and-blooms/bitset v1.4.0 h1:+YZ8ePm+He2pU3dZlIZiOeAKfrBkXi1lSrXJ
 github.com/bits-and-blooms/bitset v1.4.0/go.mod h1:gIdJ4wp64HaoK2YrL1Q5/N7Y16edYb8uY+O0FJTyyDA=
 github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9 h1:mV+hh0rMjzrhg7Jc/GKwpa+y/0BMHGOHdM9yY1GYyFI=
 github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9/go.mod h1:nDeXEIaeDV+mAK1gBD3/RJH67DYPC0GdaznWN7sB07s=
+github.com/blushft/go-diagrams v0.0.0-20250322201119-d91ac4ca5de4 h1:snpNl6kH7imyHOkzGWbq01y20WzyLFa1EIID10usZRE=
+github.com/blushft/go-diagrams v0.0.0-20250322201119-d91ac4ca5de4/go.mod h1:nDeXEIaeDV+mAK1gBD3/RJH67DYPC0GdaznWN7sB07s=
 github.com/bmatcuk/doublestar v1.1.1/go.mod h1:UD6OnuiIn0yFxxA2le/rnRU1G4RaI4UvFv1sNto9p6w=
 github.com/bradleyfalzon/ghinstallation/v2 v2.16.0 h1:B91r9bHtXp/+XRgS5aZm6ZzTdz3ahgJYmkt4xZkgDz8=
 github.com/bradleyfalzon/ghinstallation/v2 v2.16.0/go.mod h1:OeVe5ggFzoBnmgitZe/A+BqGOnv1DvU/0uiLQi1wutM=
