@@ -37,7 +37,7 @@ require (
 	github.com/evilmonkeyinc/jsonpath v0.8.1
 	github.com/fsnotify/fsnotify v1.9.0
 	github.com/gavv/httpexpect/v2 v2.16.0
-	github.com/gfleury/go-bitbucket-v1 v0.0.0-20210707202713-7d616f7c18ac
+	github.com/gfleury/go-bitbucket-v1 v0.0.0-20240917142304-df385efaac68
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/go-git/go-git/v5 v5.16.1
 	github.com/go-openapi/inflect v0.21.2
