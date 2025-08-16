@@ -22,7 +22,7 @@ require (
 	github.com/ahmetb/gen-crd-api-reference-docs v0.3.0
 	github.com/aliyun/aliyun-mns-go-sdk v1.0.11
 	github.com/andygrunwald/go-gerrit v0.0.0-20230325081502-da63a5c62d80
-	github.com/antonmedv/expr v1.15.5
+	github.com/antonmedv/expr v1.17.6
 	github.com/apache/openwhisk-client-go v0.0.0-20250309042127-fa7fa7e48863
 	github.com/apache/pulsar-client-go v0.12.0
 	github.com/argoproj/notifications-engine v0.4.1-0.20250714211124-c449507755ab
